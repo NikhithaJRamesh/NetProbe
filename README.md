@@ -14,9 +14,8 @@ Zero dependencies: standard library only
 Requirements
 Python 3.6+
 Works on Windows, Linux and macOS
-Installation
-git clone https://github.com/rahulkapse17/netprobe.git
-cd netprobe
+
+
 Usage
 python3 netprobe.py
 You will see an interactive menu:
